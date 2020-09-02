@@ -1,0 +1,12 @@
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.deps.json
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.runtimeconfig.json
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.runtimeconfig.dev.json
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.dll
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.pdb
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.csprojAssemblyReference.cache
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.AssemblyInfoInputs.cache
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.AssemblyInfo.cs
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.dll
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.pdb
+/Users/chazsherrill/Projects/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.genruntimeconfig.cache
